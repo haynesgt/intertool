@@ -1,3 +1,4 @@
+package com.github.haynesgt.intertool.java;
 // Generated from Java.g4 by ANTLR 4.7
 
 import org.antlr.v4.runtime.ParserRuleContext;
